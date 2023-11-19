@@ -2,7 +2,7 @@
 - 👀 I’m a student at Otis College Extension.
 - 🌱 I’m currently learning game design.
 - 💞️ I’m looking to collaborate on video game projects.
-- 📫 How to reach me | Email: yeju.cheon@gmail.com
+- 📫 How to reach me | Email: yeju.cheon@gmail.com | LinkedIn: https://www.linkedin.com/in/yejucheon/
 
 <!---
 callofcheese/callofcheese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
